@@ -1,0 +1,10 @@
+/* 공통요소 */
+.inner {
+    position: relative;
+  }
+  .clearfix::after {
+    position: relative;
+    display: block;
+    width: 100%;
+    clear: both;
+  }
