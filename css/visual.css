@@ -1,4 +1,6 @@
 .visual {
+    height: 980px;
+    background-color: #d81e1f;
 }
 @media all and (max-width: 1680px) {
 }

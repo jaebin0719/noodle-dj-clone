@@ -1,4 +1,6 @@
 .cityinfo {
+  height: 2260px;
+  background-color: #f6ac1d;
 }
 @media all and (max-width: 1680px) {
 }
